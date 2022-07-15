@@ -7,4 +7,6 @@ Curently there are no scripts doing that, and this repo tries to fill that missi
 
 Furthermore, unlike in RLE format, this code presents results in segmented masks in **polygon** format.
 
+
+
 The code is fairly simple and takes motivations from existing codes. You can modify parts based on your need.
